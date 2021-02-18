@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+
+ConsoleMiner will be available soon!
+
+Get alerted when it launches by subscribing here: https://consoleminer.com
+
+-CM
 
 <!--
 **consoleminer/consoleminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
